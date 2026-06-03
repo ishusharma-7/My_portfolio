@@ -38,19 +38,19 @@ const Hero = () => {
             
             <div className="flex gap-5 text-3xl items-center">
               {/* GitHub */}
-              <a href="#" className="text-gray-200 hover:text-white hover:scale-125 hover:drop-shadow-[0_0_20px_rgba(255,255,255,0.5)] transition-all duration-300">
+              <a href="https://github.com/ishusharma-7" className="text-gray-200 hover:text-white hover:scale-125 hover:drop-shadow-[0_0_20px_rgba(255,255,255,0.5)] transition-all duration-300">
                 <FaGithub />
               </a>
               {/* LinkedIn */}
-              <a href="#" className="text-[#0A66C2] bg-white rounded-md hover:scale-125 hover:drop-shadow-[0_0_20px_rgba(10,102,194,0.8)] transition-all duration-300 leading-none">
+              <a href="https://www.linkedin.com/in/ishu-sharma-043121325/" className="text-[#0A66C2] bg-white rounded-md hover:scale-125 hover:drop-shadow-[0_0_20px_rgba(10,102,194,0.8)] transition-all duration-300 leading-none">
                 <FaLinkedin />
               </a>
               {/* Instagram */}
-              <a href="#" className="text-[#E1306C] hover:scale-125 hover:drop-shadow-[0_0_20px_rgba(225,48,108,0.8)] transition-all duration-300">
+              <a href="https://www.instagram.com/ishu.sharma_7/?__pwa=1" className="text-[#E1306C] hover:scale-125 hover:drop-shadow-[0_0_20px_rgba(225,48,108,0.8)] transition-all duration-300">
                 <FaInstagram />
               </a>
               {/* Render */}
-              <a href="#" className="text-[#46E3B7] hover:scale-125 hover:drop-shadow-[0_0_20px_rgba(70,227,183,0.8)] transition-all duration-300">
+              <a href="https://dashboard.render.com/" className="text-[#46E3B7] hover:scale-125 hover:drop-shadow-[0_0_20px_rgba(70,227,183,0.8)] transition-all duration-300">
                 <SiRender />
               </a>
             </div>
